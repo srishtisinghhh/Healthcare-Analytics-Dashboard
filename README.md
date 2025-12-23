@@ -94,10 +94,20 @@ All KPIs were created using DAX and aligned with real healthcare business logic.
 
 ---
 
-## 🛠️ Tools & Technologies
-- Power BI Desktop
-- DAX
-- Power Query
+## 🧩 Languages & Packages Used
+
+### Languages
+- **DAX** – KPI creation and business calculations
+- **Power Query (M)** – Data transformation and cleaning
+
+### Tools & Packages
+- **Power BI Desktop** – Dashboard development and visualization
+- **Power Query Editor** – Data preparation and profiling
+- **DAX Engine** – Measure and KPI calculations
+
+### Data Modeling
+- **Star Schema** – Fact and dimension table design
+- **One-to-Many Relationships** – Dim → Fact modeling
 
 
 ---
